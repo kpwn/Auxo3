@@ -1,0 +1,16 @@
+Package: com.a3tweaks.auxo3
+Name: Auxo 3 (iOS 8)
+Version: 1.1
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: A fantasic re-imagined task switcher!
+Author: A3tweaks <auxo3@a3tweaks.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Conflicts: com.a3tweaks.auxo2
+Icon: file:///Library/PreferenceBundles/Auxo3Preferences.bundle/Auxo@2x.png
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxo3Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxo3Dp
+dev: a3tweaks
+Tag: cydia::commercial, purpose::extension, ios8support::1
